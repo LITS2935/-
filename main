@@ -1,0 +1,4 @@
+java(电池管理器,activity,"android.content.Context.getSystemService","String","batterymanager")
+java(电量,电池管理器,"android.os.BatteryManager.getIntProperty","int",4)
+ss("电量"+电量+"%",XUEZHA)
+tw(XUEZHA)
